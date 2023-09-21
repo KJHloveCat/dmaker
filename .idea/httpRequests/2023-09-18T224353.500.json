@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-09-18T13:43:53.910+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/create-developer"
+}
